@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTTokenAPI", "JWTTokenAPI\JWTTokenAPI.csproj", "{479A9573-46A0-4AA0-81D3-A6DF56CB4886}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTMVC", "JWTMVC\JWTMVC.csproj", "{5F6184BE-8CFD-43C5-8E80-81BA3C1C41C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{479A9573-46A0-4AA0-81D3-A6DF56CB4886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479A9573-46A0-4AA0-81D3-A6DF56CB4886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479A9573-46A0-4AA0-81D3-A6DF56CB4886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479A9573-46A0-4AA0-81D3-A6DF56CB4886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F6184BE-8CFD-43C5-8E80-81BA3C1C41C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F6184BE-8CFD-43C5-8E80-81BA3C1C41C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F6184BE-8CFD-43C5-8E80-81BA3C1C41C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F6184BE-8CFD-43C5-8E80-81BA3C1C41C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6C7B625-DF17-4B72-8FDA-F1A97DBF7249}
+	EndGlobalSection
+EndGlobal
